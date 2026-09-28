@@ -1,7 +1,5 @@
-version: 2026.232.0520
 redis-client-layer:
     candy:
-        version: 2026.144.1443
         description: |
             harness-redis-client — installs redis-cli for cross-pod redis access
             Provides /usr/bin/redis-cli so the harness can run
